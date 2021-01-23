@@ -1,1 +1,1 @@
-# Walktrough
+# Walkthrough
